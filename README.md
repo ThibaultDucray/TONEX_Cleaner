@@ -28,12 +28,15 @@ This way, you keep only the latest version of the preset.
 
 # Install and use
 
-You must have python3 installed on your computer.
+1. You must have python3 installed on your computer.
+2. Download the 3 python files `tonex_actions.py`, `TONEX_Cleaner.py`, `tonex_gui.py`.
+3. Then with the command line tool (either Terminal or PowerShell), cd to the TONEX library directory (name is: Library.db)
+4. From here, launch the TONEX_Cleaner app: `python3 \[path_to_the_python_code\]/TONEX_Cleaner.py`
+5. And enjoy.
 
-Download the 3 python files `tonex_actions.py`, `TONEX_Cleaner.py`, `tonex_gui.py`.
+Want a shortcut on your desktop or launchbar? Ask your favorite GPT, it'll help.
 
-Then with the command line tool (either Terminal or PowerShell), cd to the TONEX library directory, and from here launch the TONEX_Cleaner app: `python3 \[path_to_the_python_code\]/TONEX_Cleaner.py`
-And enjoy.
+![Screenshot](https://raw.githubusercontent.com/ThibaultDucray/TONEX_Cleaner/refs/heads/main/TONEX_Cleaner_screenshot.png)
 
 # Warning
 
