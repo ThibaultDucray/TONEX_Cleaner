@@ -26,6 +26,8 @@ The cleanup function will do this:
 
 This way, you keep only the latest version of the preset.
 
+**/!\ Warning:** It will do it for **ALL** the duplicated presets (i.e. containing _01, ...), keeping the highest suffixed number.
+
 # Install and use
 
 1. You must have python3 installed on your computer.
