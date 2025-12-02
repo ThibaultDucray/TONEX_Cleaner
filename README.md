@@ -26,7 +26,7 @@ The cleanup function will do this:
 
 This way, you keep only the latest version of the preset.
 
-**/!\ Warning:** It will do it for **ALL** the duplicated presets (i.e. containing _01, ...), keeping the highest suffixed number.
+**/!\ Warning:** It will do it for **ALL** the duplicated presets (i.e. containing _01, ...), keeping the highest suffixed number, without the **_nn** suffix.
 
 # Install and use
 
