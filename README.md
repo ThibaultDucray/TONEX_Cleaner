@@ -6,8 +6,8 @@ If you're not a guitarist, then learn to play guitar!
 
 ## What missing feature?
 
-TONEX Editor is a very powerful tool, but it has one small drawback: every time you move a preset from your TONEX Pedal to the library, it creates a duplicate, renamed PresetName_01, then _02, and so on.
-By the end, you’re completely lost, and there no feature to **only keep the latest preset version**.
+TONEX Editor is a very powerful tool, but it has one small drawback: every time you move a preset from your TONEX Pedal to the library, it creates a duplicate, renamed **PresetName_01**, then **_02**, and so on.
+By the end, you’re completely lost, and there is no feature to **only keep the latest preset version**.
 
 So, I wrote this little piece of Python code to solve my three needs:
 
